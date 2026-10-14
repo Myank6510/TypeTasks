@@ -1,0 +1,12 @@
+{
+  "name": "typetasks",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Part 1: Type-safe TypeTasks model in TypeScript",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
